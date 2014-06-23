@@ -5,5 +5,6 @@ public class TestGitFinal {
 		System.out.println("Ciao");
 		System.out.println("a tutti");
 		System.out.println("Pluto");
+		System.out.println("Pippo");
 	}
 }
